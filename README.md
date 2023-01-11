@@ -1,6 +1,6 @@
-# Docker Apache (httpd) PHP MySQL
+# Docker Apache (httpd) MySQL PHP 
 
-Master branch is containing Apache (httpd) PHP MySQL Composer PHPMyAdmin Adminer
+Master branch is containing Apache (httpd), MySQL, PHP, Composer, PHPMyAdmin, and Adminer.
 
 For Additional container please browse to specific branches
 
